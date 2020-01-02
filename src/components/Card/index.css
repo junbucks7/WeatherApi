@@ -1,0 +1,41 @@
+.weather-container {
+  height: 500px;
+}
+
+.background-image {
+  position: relative;
+  width: 260px;
+  height: 500px;
+  border-radius: 38px;
+}
+
+.weather-wrapper {
+  position: relative;
+  bottom: 170px;
+  /* padding: 20px; */
+}
+
+.city-name {
+  display: flex;
+  position: relative;
+  bottom: 320px;
+  justify-content: center;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.description {
+  display: flex;
+  justify-content: center;
+  font-size: 24px;
+  position: relative;
+  bottom: 220px;
+}
+
+.temp {
+  position: relative;
+  bottom: 30px;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 20px;
+}

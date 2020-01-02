@@ -1,0 +1,15 @@
+body {
+  margin: 10px;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.city {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 30px;
+}
